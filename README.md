@@ -26,3 +26,7 @@ Utiliza este documento como base para entender los conceptos clave de la IA.
 
 Presentación:
 Abre el archivo "Tarea1_Topicos_IA.pptx" o "Tarea1_Topicos_IA.pdf" para revisar la presentación visual.
+
+Referencias:
+Consulta el archivo "Referencias.txt" o la sección de referencias en el documento de investigación para ver las fuentes utilizadas.
+
