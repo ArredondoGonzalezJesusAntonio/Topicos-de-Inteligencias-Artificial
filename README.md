@@ -17,3 +17,12 @@ Incluye diapositivas sobre las áreas, aplicaciones y tendencias de la IA, dise�
 
 Referencias:
 Un listado completo de las fuentes utilizadas, citadas en formato APA, para respaldar la información presentada en la investigación.
+
+## Instrucciones para el Uso del Repositorio
+
+Documento de Investigación:
+Abre el archivo "Tarea1.docx" o "Tarea1.pdf" para leer el contenido completo.
+Utiliza este documento como base para entender los conceptos clave de la IA.
+
+Presentación:
+Abre el archivo "Tarea1_Topicos_IA.pptx" o "Tarea1_Topicos_IA.pdf" para revisar la presentación visual.
